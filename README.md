@@ -17,6 +17,6 @@
 ![slide 15](Images/slide15.jpg)
 ![slide 16](Images/slide16.jpg)
 ![slide 17](Images/slide17.jpg)
-![slide 18](Images/slide18.jpg)
+![slide 18](Images/Slide18.jpg)
 
 
