@@ -1,5 +1,5 @@
 # OzAir-Airline-Booking-System
 
-![slide 1](Images/Slide1.png)
+![slide 1](Images/Slide1.jpg)
 
 
